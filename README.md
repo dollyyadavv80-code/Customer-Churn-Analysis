@@ -30,19 +30,21 @@ IBM Telco Customer Churn sample dataset (7,043 customers, 33 columns) covering d
 
  # Repository Structure
 customer-churn-analysis/
-
-├── data/
-
-├── notebooks/
-
-├── powerbi/
-
-├── images/
-
+```
+customer-churn-analysis/
+├── Customer_Churned_Analysis_3.ipynb
+├── Telco_customer_churn.xlsx
+├── customer_churn__dashboard.pbix
+├── dashboard.png
+├── LICENSE
 └── README.md
+```
 
 # Tools
-Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX
+
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn (Jupyter Notebook)
+- **Power BI:** DAX, interactive dashboard
+- **Data:** Excel
 
 Dolly Yadav
 
